@@ -3,14 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+  height: 100vh;
+  background-color: aliceblue;
 
+}
 main {
   width: 100%;
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background-color: aliceblue;
 }
 
 #img-div {
